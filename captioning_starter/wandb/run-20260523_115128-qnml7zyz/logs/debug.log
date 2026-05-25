@@ -1,0 +1,22 @@
+2026-05-23 11:51:28,634 INFO    MainThread:25336 [wandb_init.py:setup_run_log_directory():723] Logging user logs to /Users/selma/Project_DL_3/captioning_starter/wandb/run-20260523_115128-qnml7zyz/logs/debug.log
+2026-05-23 11:51:28,634 INFO    MainThread:25336 [wandb_init.py:setup_run_log_directory():724] Logging internal logs to /Users/selma/Project_DL_3/captioning_starter/wandb/run-20260523_115128-qnml7zyz/logs/debug-internal.log
+2026-05-23 11:51:28,634 INFO    MainThread:25336 [wandb_init.py:init():851] calling init triggers
+2026-05-23 11:51:28,634 INFO    MainThread:25336 [wandb_init.py:init():856] wandb.init called with sweep_config: {}
+config: {'encoder_dim': 512, 'embed_dim': 256, 'decoder_dim': 512, 'dropout': 0.5, 'freeze_encoder': True, 'batch_size': 32, 'min_word_freq': 5, 'max_len': 40, 'vocab_size': 2649, 'learning_rate': 0.0003, 'num_epochs': 20, '_wandb': {}}
+2026-05-23 11:51:31,070 INFO    MainThread:25336 [wandb_init.py:init():899] starting backend
+2026-05-23 11:51:31,071 INFO    MainThread:25336 [wandb_init.py:init():914] sending inform_init request
+2026-05-23 11:51:31,453 INFO    MainThread:25336 [wandb_init.py:init():919] backend started and connected
+2026-05-23 11:51:31,453 INFO    MainThread:25336 [wandb_run.py:_label_probe_notebook():1262] probe notebook
+2026-05-23 11:51:31,461 INFO    MainThread:25336 [wandb_init.py:init():989] updated telemetry
+2026-05-23 11:51:31,497 INFO    MainThread:25336 [wandb_init.py:init():1012] communicating run to backend with 90.0 second timeout
+2026-05-23 11:51:32,006 INFO    MainThread:25336 [wandb_init.py:init():1057] starting run threads in backend
+2026-05-23 11:51:32,089 INFO    MainThread:25336 [wandb_run.py:_console_start():2509] atexit reg
+2026-05-23 11:51:32,089 INFO    MainThread:25336 [wandb_run.py:_redirect():2359] redirect: wrap_raw
+2026-05-23 11:51:32,089 INFO    MainThread:25336 [wandb_run.py:_redirect():2428] Wrapping output streams.
+2026-05-23 11:51:32,089 INFO    MainThread:25336 [wandb_run.py:_redirect():2451] Redirects installed.
+2026-05-23 11:51:32,089 INFO    MainThread:25336 [wandb_init.py:init():1095] run started, returning control to user process
+2026-05-25 16:05:52,719 INFO    MainThread:25336 [wandb_run.py:_finish():2271] finishing run wirthsel-zhaw/image-captioning/qnml7zyz
+2026-05-25 16:05:52,720 INFO    MainThread:25336 [wandb_run.py:_atexit_cleanup():2476] got exitcode: 0
+2026-05-25 16:05:52,722 INFO    MainThread:25336 [wandb_run.py:_restore():2458] restore
+2026-05-25 16:05:52,722 INFO    MainThread:25336 [wandb_run.py:_restore():2464] restore done
+2026-05-25 16:05:54,030 INFO    MainThread:25336 [wandb_run.py:_footer_sync_info():3877] logging synced files

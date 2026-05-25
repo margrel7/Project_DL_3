@@ -1,0 +1,38 @@
+{
+  "os": "macOS-26.2-arm64-arm-64bit",
+  "python": "CPython 3.11.14",
+  "startedAt": "2026-05-23T08:54:01.337331Z",
+  "program": "/Users/selma/Project_DL_3/captioning_starter/captioning_starter.ipynb",
+  "codePath": "/Users/selma/Project_DL_3/captioning_starter/captioning_starter.ipynb",
+  "codePathLocal": "captioning_starter.ipynb",
+  "git": {
+    "remote": "https://github.com/Nathan-massicot/Project_DL_3.git",
+    "commit": "8856af9ed29b80a55291070082cedbbadaebe9fa"
+  },
+  "email": "wirthsel@students.zhaw.ch",
+  "root": "/Users/selma/Project_DL_3/captioning_starter",
+  "host": "MacBook-Pro-von-Selma.local",
+  "executable": "/Users/selma/Project_DL_3/.venv/bin/python",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "994662584320",
+      "used": "205437980672"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "apple": {
+    "name": "Apple M4",
+    "ecpuCores": 6,
+    "pcpuCores": 4,
+    "gpuCores": 10,
+    "memoryGb": 16,
+    "swapTotalBytes": "4294967296",
+    "ramTotalBytes": "17179869184",
+    "macModel": "Mac16,1"
+  },
+  "writerId": "dzjpnaalq4wxm3cf2h5dfaxs81cptvkp"
+}

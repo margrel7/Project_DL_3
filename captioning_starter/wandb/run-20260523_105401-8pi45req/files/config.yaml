@@ -1,0 +1,77 @@
+_wandb:
+    value:
+        cli_version: 0.27.0
+        e:
+            dzjpnaalq4wxm3cf2h5dfaxs81cptvkp:
+                apple:
+                    ecpuCores: 6
+                    gpuCores: 10
+                    macModel: Mac16,1
+                    memoryGb: 16
+                    name: Apple M4
+                    pcpuCores: 4
+                    ramTotalBytes: "17179869184"
+                    swapTotalBytes: "4294967296"
+                codePath: /Users/selma/Project_DL_3/captioning_starter/captioning_starter.ipynb
+                codePathLocal: captioning_starter.ipynb
+                cpu_count: 10
+                cpu_count_logical: 10
+                disk:
+                    /:
+                        total: "994662584320"
+                        used: "205437980672"
+                email: wirthsel@students.zhaw.ch
+                executable: /Users/selma/Project_DL_3/.venv/bin/python
+                git:
+                    commit: 8856af9ed29b80a55291070082cedbbadaebe9fa
+                    remote: https://github.com/Nathan-massicot/Project_DL_3.git
+                host: MacBook-Pro-von-Selma.local
+                memory:
+                    total: "17179869184"
+                os: macOS-26.2-arm64-arm-64bit
+                program: /Users/selma/Project_DL_3/captioning_starter/captioning_starter.ipynb
+                python: CPython 3.11.14
+                root: /Users/selma/Project_DL_3/captioning_starter
+                startedAt: "2026-05-23T08:54:01.337331Z"
+                writerId: dzjpnaalq4wxm3cf2h5dfaxs81cptvkp
+        m: []
+        python_version: 3.11.14
+        t:
+            "1":
+                - 1
+                - 41
+            "2":
+                - 1
+                - 41
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.11.14
+            "5": 0.27.0
+            "8":
+                - 1
+            "12": 0.27.0
+            "13": darwin-arm64
+batch_size:
+    value: 32
+decoder_dim:
+    value: 512
+dropout:
+    value: 0.5
+embed_dim:
+    value: 256
+encoder_dim:
+    value: 512
+freeze_encoder:
+    value: true
+learning_rate:
+    value: 0.0003
+max_len:
+    value: 40
+min_word_freq:
+    value: 5
+num_epochs:
+    value: 20
+vocab_size:
+    value: 2649
